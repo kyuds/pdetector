@@ -1,0 +1,4 @@
+# pdetector
+
+persistent package detector
+
